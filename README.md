@@ -1,5 +1,3 @@
-![AI & Technology Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&h=400&q=80)
-
 
 # **Hey there, I'm Naresh!** 👋
 
