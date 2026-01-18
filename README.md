@@ -6,6 +6,9 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=nareshv-dev&label=Profile%20Views&color=blue)
+
+
 ## **💡 About Me:**
 - 🎯 Exploring **Machine Learning, Deep Learning, and MLOps**
 - 🛠️ **ML Researcher** | **Tech Speaker**
