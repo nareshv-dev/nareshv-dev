@@ -2,11 +2,11 @@
 
 # **Hey there, I'm Naresh!** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Explorer+%F0%9F%9A%80;Data+Science+Practitioner+%F0%9F%93%8A;LeetCode+Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Explorer+%F0%9F%9A%80;Deep+Learning+Engineer+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-v-97567b21a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nareshv16)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nareshv-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naresh_V/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nareshv-dev)
 
 </div>
@@ -28,28 +28,6 @@ const Naresh = {
 🎯 Exploring **Machine Learning, Deep Learning, and MLOps**  
 🛠️ **ML Researcher** | **Tech Speaker** | **Problem Solver**  
 🧑‍💻 Always open to collaboration and new opportunities!
-
----
-
-## **🔥 LeetCode Stats**
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/nareshv-dev?theme=dark&font=Noto%20Sans&ext=heatmap)
-
-</div>
-
-### **💻 My LeetCode Journey**
-- 🎯 **Consistent Problem Solver** - Building strong DSA foundations
-- 🧠 **Topics Mastered**: Arrays, Dynamic Programming, Trees, Graphs, and more
-- 📈 **Goal**: Achieve **500+ problems** solved and **Knight** badge
-- 🏆 **Approach**: Daily practice + Contest participation
-
-<div align="center">
-
-[![LeetCode user nareshv-dev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnareshv-dev&logo=leetcode&logoColor=yellow)](https://leetcode.com/nareshv-dev/)
-
-</div>
 
 ---
 
@@ -141,7 +119,7 @@ const Naresh = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-v-97567b21a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nareshv16)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nareshv-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naresh_V/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
