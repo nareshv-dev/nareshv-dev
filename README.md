@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nareshv-dev/nareshv-dev/main/web-dev-banner.png" alt="Web Development Banner" width="400"/>
 
 # **Hey there, I'm Naresh!** 👋
+
+<img src="https://raw.githubusercontent.com/nareshv-dev/nareshv-dev/main/web-dev-banner.png" alt="Web Development Banner" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-v-97567b21a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nareshv16)
