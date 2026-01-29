@@ -89,26 +89,12 @@ const Naresh = {
 
 ## **📫 Connect With Me**
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-v-97567b21a/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nareshv16)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naresh_V/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
-
----
-
-<div align="center">
-
-### **💭 Quote of the Day**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### **✨ Profile Views**
-
-![Visitor Count](https://profile-counter.glitch.me/nareshv-dev/count.svg)
 
 ---
 
