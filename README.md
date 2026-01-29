@@ -66,33 +66,6 @@ const Naresh = {
 
 ---
 
-## **📊 GitHub Stats**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nareshv-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshv-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nareshv-dev&theme=tokyonight)
-
-</div>
-
----
-
-## **🏆 GitHub Trophies**
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nareshv-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## **📈 Contribution Graph**
 
 <div align="center">
@@ -105,11 +78,12 @@ const Naresh = {
 
 ## **💼 What I'm Working On**
 
-- 🔭 Currently building ML projects to solve real-world problems
-- 🌱 Learning advanced **Deep Learning architectures** and **MLOps**
-- 👯 Looking to collaborate on **AI/ML open-source projects**
-- 💬 Ask me about **Machine Learning, Python, and Algorithm Design**
-- ⚡ Fun fact: I debug with print statements and I'm proud of it! 😄
+- 🔭 Currently building **ML projects** focused on solving real-world problems  
+- 🌱 Learning **advanced Deep Learning architectures**, **MLOps**, and **model deployment**  
+- 🧠 Strengthening **DSA fundamentals** (arrays, strings, recursion, hashing, trees) using **Java & Python**  
+- 👯 Open to collaborating on **AI/ML and problem-solving open-source projects**  
+- ⚡ Fun fact: I still debug with `print()` statements—and yes, they work 😄  
+
 
 ---
 
