@@ -2,11 +2,14 @@
 
 # **Hey there, I'm Naresh!** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Explorer+%F0%9F%9A%80;Deep+Learning+Engineer+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+Explorer+%F0%9F%9A%80;Deep[...]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-v-97567b21a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nareshv16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naresh_V/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nareshvenkadesh)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nareshvenkadesh?tab=activity)
+[![Codolio](https://img.shields.io/badge/Codolio-%23FF6B6B.svg?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Naresh%20V)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nareshv-dev)
 
 </div>
