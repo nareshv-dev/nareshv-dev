@@ -107,3 +107,20 @@ const Naresh = {
 ⭐️ From [nareshv-dev](https://github.com/nareshv-dev)
 
 </div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Competitive Programming
+
+<div align="center">
+  
+  ### LeetCode Stats
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Naresh_V?theme=unicorn&font=Gudea&ext=contest)
+  
+  <p>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNaresh_V&logo=leetcode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNaresh_V&logo=leetcode&logoColor=yellow" />
+  </p>
+  
+  ### Codolio Profile
+  [![Codolio](https://img.shields.io/badge/View%20My%20Codolio%20Profile-%23FF6B6B.svg?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Naresh%20V)
+  
+</div>
