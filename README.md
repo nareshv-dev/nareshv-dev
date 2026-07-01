@@ -20,13 +20,13 @@
 const Naresh = {
     role: "Machine Learning Enthusiast & AI Explorer",
     education: "Computer Science Engineering Student",
-    interests: ["Deep Learning", "MLOps", "Problem Solving", "AI Research"],
+    interests: ["Deep Learning","Machine Learning", "Problem Solving", "AI Research"],
     currentFocus: "Building intelligent systems & optimizing ML models",
     funFact: "Turning coffee into code and ideas into AI solutions ☕➡️🤖"
 };
 ```
 
-🎯 Exploring **Machine Learning, Deep Learning, and MLOps**  
+🎯 Exploring **Machine Learning, Deep Learning, and Computer Vision**  
 🛠️ **ML Researcher** | **Tech Speaker** | **Problem Solver**  
 🧑‍💻 Always open to collaboration and new opportunities!
 
@@ -35,8 +35,8 @@ const Naresh = {
 
 ### **💻 My LeetCode Journey**
 - 🎯 **Consistent Problem Solver** - Building strong DSA foundations
-- 🧠 **Topics Mastered**: Arrays, Dynamic Programming, Trees, Graphs, and more
-- 📈 **Goal**: Achieve **500+ problems** solved and **Knight** badge
+- 🧠 **Topics Mastered**: Arrays, String, Dynamic Programming 
+- 📈 **Goal**: Achieve **500+ problems** solved
 - 🏆 **Approach**: Daily practice + Contest participation
 
 ---
@@ -68,7 +68,6 @@ const Naresh = {
 ### **☁️ Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
